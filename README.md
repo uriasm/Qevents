@@ -8,6 +8,7 @@ Backend: usuarios y eventos
 
 ### Instalación 🔧
 * Abrir la carpeta del proyecto y ejecutar npm install
+* Configurar el archivo .env con las credenciales de mongo
 * Una vez terminado, ejecutar el comando npm run dev
 
 ## Construido con 🛠️
